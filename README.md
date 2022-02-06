@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on React.js and Meteor.js.
-- 🌱 I’m currently learning flutter.
+- 🌱 I’m currently learning Flutter.
 - 💬 You can ask me about the software.
 ## Connect with me:
 <p align ="left"> 
