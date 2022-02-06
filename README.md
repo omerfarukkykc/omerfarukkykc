@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 I'm Ömer</h1>
-<h3 align="center">A Software Developer from Bursa/Turkey</h3>
+<h2 align="center">A Software Developer from Bursa/Turkey</h2>
 
 
 
 - 🔭 I’m currently working on .
 - 🌱 I’m currently learning Flutter.
 - 💬 You can ask me about the software.
-## Connect with me:
+<h2 align="center">Connect with me</h2>
 <p align ="left"> 
     <a href ="https://www.linkedin.com/in/omerfarukkayikci" target ="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
 </p>
