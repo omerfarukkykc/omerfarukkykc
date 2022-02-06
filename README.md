@@ -2,8 +2,7 @@
 
 <p align ="center">
 I'm a Computer Engineer. I am developing myself in Dart&Flutter , 
-You can find the projects that I developed projects in c# and java languages in my repositories.
-I'm waiting for your feedback
+I am waiting for your feedback about the projects I have developed.
 </p>
 <h2 align="center">Languages and Tools</h2>
 <p align ="center">
