@@ -11,7 +11,7 @@
     <a href ="https://www.linkedin.com/in/omerfarukkayikci" target ="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
 </p>
 ## Connect with me:
-<p align="center">
+<p align="left">
 	<a href="https://github.com/omerfarukkykc">
 		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=omerfarukkykc&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="omerfarukkykc"/>
 		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omerfarukkykc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="omerfarukkykc"/>
