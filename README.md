@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Smart Home App.
 - 🌱 I’m currently learning Flutter.
 - 💬 You can ask me about the software.
-##  🚀 Languages and Tools:
+<h2 align="center">Languages and Tools</h2>
 <p align ="center">
  <a href ="https://www.java.com" target ="_blank"> <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
  <a href ="https://reactjs.org" target ="_blank"> <img src="https://img.icons8.com/ultraviolet/40/000000/react.png"/></a>
