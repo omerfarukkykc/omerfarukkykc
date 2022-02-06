@@ -10,7 +10,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omerfarukkykc" alt="omerfarukkykc" /></a> </p>
 
 <p align="center">
-	<a href="https://github.com/rbeyzas">
+	<a href="https://github.com/omerfarukkykc">
 		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=omerfarukkykc&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="omerfarukkykc"/>
 		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omerfarukkykc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="omerfarukkykc"/>
 	</a>
