@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on .
+- 🔭 I’m currently working on Smart Home App.
 - 🌱 I’m currently learning Flutter.
 - 💬 You can ask me about the software.
 <h2 align="center">Connect with me</h2>
