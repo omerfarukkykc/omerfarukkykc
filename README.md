@@ -10,7 +10,7 @@
 <p align ="left"> 
     <a href ="https://www.linkedin.com/in/omerfarukkayikci" target ="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
 </p>
-<h3 align="center">My Github Stats</h3>
+<h2 align="center">My Github Stats</h2>
 <p align="center">
 	<a href="https://github.com/omerfarukkykc">
 		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=omerfarukkykc&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="omerfarukkykc"/>
