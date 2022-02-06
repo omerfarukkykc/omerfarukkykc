@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Ömer</h1>
-<h2 align="center">A Software Developer from Bursa/Turkey</h2>
+<h2 align="center">A Computer Engineer from Bursa/Turkey</h2>
 
 
 
@@ -18,7 +18,7 @@
  <a href ="https://www.postgresql.org" target ="_blank"> <img src="https://user-images.githubusercontent.com/56760393/121821213-5a7e6a80-cca0-11eb-8682-7c1966500dc1.png" width=48 height=48 /></a>
  <a href ="https://code.visualstudio.com" target ="_blank"> <img src="https://user-images.githubusercontent.com/56760393/121821397-4850fc00-cca1-11eb-8915-116d4c26edf6.png" width=48 height=48 /></a>
 </p>
-<h2 align="center">Connect with me</h2>
+<h2 align="center">Connect With Me</h2>
 <p align ="center"> 
     <a href ="https://www.linkedin.com/in/omerfarukkayikci" target ="_blank"> <img height="64px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 	<a href ="mailto: omerfaruk@lepric.com" target ="_blank">  <img height="64px" src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
