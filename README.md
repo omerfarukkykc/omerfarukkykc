@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋 I'm Ömer</h1>
 
 <p align ="center">
-### I'm a Computer Engineer 💻. I am developing myself in Java, Web technologies. You can review my work in these areas and provide feedback.
+I'm a Computer Engineer. I am developing myself in Dart&Flutter , 
+You can find the projects that I developed projects in c# and java languages in my repositories.
+I'm waiting for your feedback
 </p>
 <h2 align="center">Languages and Tools</h2>
 <p align ="center">
