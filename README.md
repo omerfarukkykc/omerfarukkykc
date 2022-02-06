@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋 I'm Ömer</h1>
+### I'm a Computer Engineer 💻. I am developing myself in Java, Web technologies. You can review my work in these areas and provide feedback.
+
 <h2 align="center">Languages and Tools</h2>
 <p align ="center">
  <a href ="https://www.java.com" target ="_blank"> <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
