@@ -8,7 +8,7 @@
 - 💬 You can ask me about the software.
 ## Connect with me:
 <p align ="left"> 
-    <a href ="https://www.linkedin.com/in/esrakoçak" target ="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
+    <a href ="https://www.linkedin.com/in/omerfarukkayikci" target ="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omerfarukkykc" alt="omerfarukkykc" /></a> </p>
