@@ -9,7 +9,7 @@
 <h2 align="center">Connect with me</h2>
 <p align ="center"> 
     <a href ="https://www.linkedin.com/in/omerfarukkayikci" target ="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
-    <a href ="https://www.linkedin.com/in/omerfarukkayikci" target ="_blank"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new--v2.png"/></a>
+    <a href ="https://www.linkedin.com/in/omerfarukkayikci" target ="_blank"><i class="fab fa-linkedin"></i></a>
 </p>
 <h2 align="center">My Github Stats</h2>
 <p align="center">
