@@ -8,7 +8,7 @@
 - 💬 You can ask me about the software.
 <h2 align="center">Connect with me</h2>
 <p align ="center"> 
-    <a href ="https://www.linkedin.com/in/omerfarukkayikci" target ="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
+    <a href ="https://www.linkedin.com/in/omerfarukkayikci" target ="_blank"> <img src="<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>"/></a>
     <a href ="https://www.linkedin.com/in/omerfarukkayikci" target ="_blank"><i class="fab fa-linkedin"></i></a>
 </p>
 <h2 align="center">My Github Stats</h2>
