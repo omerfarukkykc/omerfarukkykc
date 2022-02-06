@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Flutter.
 - 💬 You can ask me about the software.
 <h2 align="center">Connect with me</h2>
-<p align ="left"> 
+<p align ="center"> 
     <a href ="https://www.linkedin.com/in/omerfarukkayikci" target ="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
 </p>
 <h2 align="center">My Github Stats</h2>
