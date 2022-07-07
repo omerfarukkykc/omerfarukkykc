@@ -16,7 +16,7 @@ I am waiting for your feedback about the projects I have developed.
  <a href ="https://www.postgresql.org" target ="_blank"> <img src="https://user-images.githubusercontent.com/56760393/121821213-5a7e6a80-cca0-11eb-8682-7c1966500dc1.png" width=48 height=48 /></a>
  <a href ="https://code.visualstudio.com" target ="_blank"> <img src="https://user-images.githubusercontent.com/56760393/121821397-4850fc00-cca1-11eb-8915-116d4c26edf6.png" width=48 height=48 /></a>
 </p>
-<h2 align="center">Connect With Me</h2>
+<h2 align="center">Contact me</h2>
 <p align ="center"> 
     <a href ="https://www.linkedin.com/in/omerfarukkayikci" target ="_blank"> <img height="64px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 	<a href ="mailto: omerfaruk@lepric.com" target ="_blank">  <img height="64px" src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
